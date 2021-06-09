@@ -1,0 +1,67 @@
+{
+  "156": {
+    "pipelines": [],
+    "settings": {
+      "id_account": "1",
+      "use_store": "false",
+      "use_priory": "false",
+      "use_number": "false",
+      "use_responsible": "5",
+      "token": "9f446e49fbdca0d328b8ec344ade33e8",
+      "refer": "pragmaintegrations.amocrm.ru",
+      "application": 6609091
+    }
+  },
+  "79": {
+    "pipelines": [],
+    "settings": {
+      "id_account": "1",
+      "use_store": "false",
+      "use_priory": "false",
+      "use_number": "false",
+      "use_responsible": "1",
+      "token": "9f446e49fbdca0d328b8ec344ade33e8",
+      "refer": "eugryumova.amocrm.ru",
+      "application": 0
+    }
+  },
+  "82": {
+    "pipelines": [],
+    "settings": {
+      "id_account": "1",
+      "use_store": "true",
+      "use_priory": "false",
+      "use_number": "false",
+      "use_responsible": "1",
+      "token": "ff3e42057cb9549a7901f6a42ea3f4bc",
+      "refer": "obivaem.amocrm.ru",
+      "application": 5777791
+    }
+  },
+  "88": {
+    "pipelines": [],
+    "settings": {
+      "id_account": "1",
+      "use_store": "false",
+      "use_priory": "false",
+      "use_number": "false",
+      "use_responsible": "20",
+      "token": "605e5fdffe7b83d94982f00b92bc8e9d",
+      "refer": "okonkont.amocrm.ru",
+      "application": 0
+    }
+  },
+  "83": {
+    "pipelines": [],
+    "settings": {
+      "id_account": "1",
+      "use_store": "true",
+      "use_priory": "false",
+      "use_number": "false",
+      "use_responsible": "20",
+      "token": "857f82adad1f2d662f9af6689fdbdac0",
+      "refer": "burs.amocrm.ru",
+      "application": 0
+    }
+  }
+}

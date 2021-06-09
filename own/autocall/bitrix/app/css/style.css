@@ -1,0 +1,73 @@
+.app {
+    max-width: 950px;
+    margin: 0 auto;
+
+}
+.app  label {
+    color: #333333;
+    font-size: 16px;
+    font-weight: 500;
+}
+.app .logo {
+    text-align: center;
+}
+.app .logo image{
+    width: 100%;
+    height: auto;
+}
+.app .accordion .card .funnels-header {
+    padding: 0;
+}
+.app .title-funnels {
+    text-align: center;
+}
+.app .table-section {
+    max-height: 200px;
+    overflow: auto;
+}
+
+.app ul.number-funnels-block-list {
+    display: none;
+    margin: 0;
+    padding: 0;
+}
+.app li {
+    list-style-type: none;
+}
+.app ul.store-funnels-block-list {
+    display: none;
+    margin: 0;
+    padding: 0;
+}
+.app ul.store-funnels-block-list.active {
+    display: block;
+}
+.app ul.number-funnels-block-list.active {
+    display: block;
+}
+
+.app .priority-user .user-table {
+    display: none;
+    max-height: 300px;
+    overflow: auto;
+}
+.app .priority-user .user-table.active {
+    display: block;
+}
+.app .priority-user .user-table table tbody td input{
+    border: none;
+}
+
+.app .auto-call-modal {
+    position: fixed;
+    top: 0;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, 10px);
+}
+
+.app .auto-call-modal .close {
+    padding-left: 10px;
+    font-size: 1.3rem;
+    cursor: pointer;
+}

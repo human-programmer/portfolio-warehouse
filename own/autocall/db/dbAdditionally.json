@@ -1,0 +1,915 @@
+{
+  "28967665": {
+    "TimeResponsible": "",
+    "WorkTime": [],
+    "QuantityCallClient": [],
+    "NumberOfCallAttempts": {
+      "quantity": "5",
+      "data_q": [
+        {
+          "q": "1",
+          "time": "00:01",
+          "id": "quantity_1"
+        },
+        {
+          "q": "2",
+          "time": "00:01",
+          "id": "quantity_2"
+        },
+        {
+          "q": "3",
+          "time": "00:01",
+          "id": "quantity_3"
+        },
+        {
+          "q": "4",
+          "time": "00:01",
+          "id": "quantity_4"
+        },
+        {
+          "q": "5",
+          "time": "00:01",
+          "id": "quantity_5"
+        }
+      ],
+      "work_start": "09:00",
+      "work_finish": "20:00"
+    },
+    "ArrayUsePipelineShops": [
+      {
+        "id_account": 28967665,
+        "name_pipeline": "\u0412\u043e\u0440\u043e\u043d\u043a\u0430",
+        "id_pipeline": 3418792,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 28967665,
+        "name_pipeline": "\u0442\u0435\u0441\u0442 \u0414\u0435\u0442\u0435\u0439\u043b\u0438\u043d\u0433",
+        "id_pipeline": 3646672,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 28967665,
+        "name_pipeline": "Hook",
+        "id_pipeline": 3875374,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 28967665,
+        "name_pipeline": "Gooding",
+        "id_pipeline": 3875377,
+        "id_set_pep": 0
+      }
+    ],
+    "ArrayUsePipelineNumbers": [
+      {
+        "name_pipeline": "\u0412\u043e\u0440\u043e\u043d\u043a\u0430\n        ",
+        "id_pipeline": "3418792",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0442\u0435\u0441\u0442 \u0414\u0435\u0442\u0435\u0439\u043b\u0438\u043d\u0433\n        ",
+        "id_pipeline": "3646672",
+        "number": ""
+      },
+      {
+        "name_pipeline": "Hook\n        ",
+        "id_pipeline": "3875374",
+        "number": ""
+      },
+      {
+        "name_pipeline": "Gooding\n        ",
+        "id_pipeline": "3875377",
+        "number": ""
+      }
+    ],
+    "ArrayUsePriority": [
+      {
+        "id": "2794642",
+        "priory": "",
+        "name": "\u0422\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c"
+      },
+      {
+        "id": "6179533",
+        "priory": "",
+        "name": "Widgets amoCRM"
+      },
+      {
+        "id": "6200425",
+        "priory": "",
+        "name": "\u0412\u0430\u0441\u0438\u043b\u0438\u0439"
+      },
+      {
+        "id": "6559765",
+        "priory": "",
+        "name": "\u041a\u0430\u0442\u044f"
+      },
+      {
+        "id": "6609091",
+        "priory": "",
+        "name": "AutoCall"
+      },
+      {
+        "id": "6808375",
+        "priory": "",
+        "name": "xcvxcv"
+      },
+      {
+        "id": "6858838",
+        "priory": "",
+        "name": "\u0418\u0440\u044d\u043d"
+      },
+      {
+        "id": "6929956",
+        "priory": "",
+        "name": "\u0410\u043d\u044f"
+      }
+    ]
+  },
+  "29117440": {
+    "TimeResponsible": "",
+    "WorkTime": [],
+    "QuantityCallClient": [],
+    "NumberOfCallAttempts": {
+      "quantity": "2",
+      "data_q": [
+        {
+          "q": "1",
+          "time": "00:01",
+          "id": "quantity_1"
+        },
+        {
+          "q": "2",
+          "time": "00:02",
+          "id": "quantity_2"
+        }
+      ],
+      "work_start": "10:00",
+      "work_finish": "20:00"
+    },
+    "ArrayUsePipelineShops": [
+      {
+        "id_account": 29117440,
+        "name_pipeline": "\u0442\u0435\u0441\u0442 \u0412\u043e\u0440\u043e\u043d\u043a\u0430",
+        "id_pipeline": 3703984,
+        "id_set_pep": 0
+      }
+    ],
+    "ArrayUsePipelineNumbers": [
+      {
+        "name_pipeline": "\u0442\u0435\u0441\u0442 \u0412\u043e\u0440\u043e\u043d\u043a\u0430\n        ",
+        "id_pipeline": "3703984",
+        "number": ""
+      }
+    ],
+    "ArrayUsePriority": [
+      {
+        "id": "2991409",
+        "priory": "",
+        "name": "\u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432 \u0421\u0435\u0440\u043e\u0432"
+      },
+      {
+        "id": "6096919",
+        "priory": "",
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u041b\u0443\u043a\u0430\u043d\u043e\u0432"
+      },
+      {
+        "id": "6351022",
+        "priory": "",
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0424\u0435\u0434\u043e\u0442\u043e\u0432"
+      },
+      {
+        "id": "6469369",
+        "priory": "",
+        "name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0423\u0433\u0440\u044e\u043c\u043e\u0432\u0430"
+      },
+      {
+        "id": "6566491",
+        "priory": "",
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0428\u0432\u0435\u0446\u043e\u0432"
+      },
+      {
+        "id": "6649474",
+        "priory": "",
+        "name": "Alexandr Slobodyanik"
+      },
+      {
+        "id": "6905791",
+        "priory": "",
+        "name": "ugryumovatest@gmail.com"
+      }
+    ]
+  },
+  "79": {
+    "TimeResponsible": "",
+    "WorkTime": [],
+    "QuantityCallClient": [],
+    "NumberOfCallAttempts": [],
+    "ArrayUsePipelineShops": [],
+    "ArrayUsePipelineNumbers": [],
+    "ArrayUsePriority": []
+  },
+  "13818423": {
+    "TimeResponsible": "",
+    "WorkTime": [],
+    "QuantityCallClient": [],
+    "NumberOfCallAttempts": {
+      "quantity": "5",
+      "data_q": [
+        {
+          "q": "1",
+          "time": "00:01",
+          "id": "quantity_1"
+        },
+        {
+          "q": "2",
+          "time": "00:30",
+          "id": "quantity_2"
+        },
+        {
+          "q": "3",
+          "time": "01:30",
+          "id": "quantity_3"
+        },
+        {
+          "q": "4",
+          "time": "02:00",
+          "id": "quantity_4"
+        },
+        {
+          "q": "5",
+          "time": "02:30",
+          "id": "quantity_5"
+        }
+      ],
+      "work_start": "09:00",
+      "work_finish": "20:00"
+    },
+    "ArrayUsePipelineShops": [
+      {
+        "id_account": 13818423,
+        "name_pipeline": "\u041c\u0430\u0441\u0442\u0435\u0440 \u041c\u0435\u0431\u0435\u043b\u044c",
+        "id_pipeline": 469629,
+        "id_set_pep": 2
+      },
+      {
+        "id_account": 13818423,
+        "name_pipeline": "\u0414\u0438\u0432\u0430\u043d \u041c\u0430\u0441\u0442\u0435\u0440",
+        "id_pipeline": 1036465,
+        "id_set_pep": 3
+      },
+      {
+        "id_account": 13818423,
+        "name_pipeline": "\u041e\u0431\u0438\u0432\u043e\u0447\u043a\u0430",
+        "id_pipeline": 1523086,
+        "id_set_pep": 1
+      },
+      {
+        "id_account": 13818423,
+        "name_pipeline": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u041e\u0431\u0438\u0432\u043a\u0438",
+        "id_pipeline": 1111999,
+        "id_set_pep": 6
+      },
+      {
+        "id_account": 13818423,
+        "name_pipeline": "\u0425\u043e\u043b\u043e\u0434\u043d\u044b\u0439 \u043e\u0431\u0437\u0432\u043e\u043d",
+        "id_pipeline": 1819663,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 13818423,
+        "name_pipeline": "\u0410\u043d\u0442\u0430\u0440\u0435\u0441 \u043c\u0430\u0442\u0440\u0430\u0441\u044b",
+        "id_pipeline": 1696246,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 13818423,
+        "name_pipeline": "\u0421\u043b\u0438\u0432\u043a\u0438",
+        "id_pipeline": 3234523,
+        "id_set_pep": 5
+      },
+      {
+        "id_account": 13818423,
+        "name_pipeline": "\u0421\u043e\u0433\u043d\u0430\u0440\u0435",
+        "id_pipeline": 3595099,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 13818423,
+        "name_pipeline": "\u0422\u0435\u0441\u0442\u043e\u0432\u0430\u044f",
+        "id_pipeline": 4134457,
+        "id_set_pep": 0
+      }
+    ],
+    "ArrayUsePipelineNumbers": [
+      {
+        "name_pipeline": "\u041c\u0430\u0441\u0442\u0435\u0440 \u041c\u0435\u0431\u0435\u043b\u044c\n        ",
+        "id_pipeline": "469629",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0414\u0438\u0432\u0430\u043d \u041c\u0430\u0441\u0442\u0435\u0440\n        ",
+        "id_pipeline": "1036465",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u041e\u0431\u0438\u0432\u043e\u0447\u043a\u0430\n        ",
+        "id_pipeline": "1523086",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u041e\u0431\u0438\u0432\u043a\u0438\n        ",
+        "id_pipeline": "1111999",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0425\u043e\u043b\u043e\u0434\u043d\u044b\u0439 \u043e\u0431\u0437\u0432\u043e\u043d\n        ",
+        "id_pipeline": "1819663",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0410\u043d\u0442\u0430\u0440\u0435\u0441 \u043c\u0430\u0442\u0440\u0430\u0441\u044b\n        ",
+        "id_pipeline": "1696246",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0421\u043b\u0438\u0432\u043a\u0438\n        ",
+        "id_pipeline": "3234523",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0421\u043e\u0433\u043d\u0430\u0440\u0435\n        ",
+        "id_pipeline": "3595099",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0422\u0435\u0441\u0442\u043e\u0432\u0430\u044f\n        ",
+        "id_pipeline": "4134457",
+        "number": ""
+      }
+    ],
+    "ArrayUsePriority": [
+      {
+        "id": "1299687",
+        "priory": "",
+        "name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0411\u043e\u0441\u0441"
+      },
+      {
+        "id": "1299711",
+        "priory": "",
+        "name": "\u0410\u043d\u043d\u0430 \u0416\u0443\u043a"
+      },
+      {
+        "id": "2254762",
+        "priory": "",
+        "name": "\u0416\u0435\u043a\u0430 \u041f\u0435\u0440\u0435\u0432\u043e\u0437\u043a\u0438"
+      },
+      {
+        "id": "2254768",
+        "priory": "",
+        "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447"
+      },
+      {
+        "id": "2292052",
+        "priory": "",
+        "name": "\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439"
+      },
+      {
+        "id": "2899009",
+        "priory": "",
+        "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0410\u0432\u0440\u0443\u0441\u0435\u0432\u0438\u0447"
+      },
+      {
+        "id": "2899012",
+        "priory": "",
+        "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u041a\u043e\u0441\u0442\u0440\u0438\u0447\u043a\u043e"
+      },
+      {
+        "id": "3043015",
+        "priory": "",
+        "name": "\u0412\u0430\u0441\u0438\u043b\u0438\u0439"
+      },
+      {
+        "id": "3469357",
+        "priory": "",
+        "name": "\u041c\u0430\u0448\u0430"
+      },
+      {
+        "id": "3503581",
+        "priory": "",
+        "name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043d\u0430"
+      },
+      {
+        "id": "3619222",
+        "priory": "",
+        "name": "\u0410\u043d\u043d\u0430 \u0422\u0440\u0435\u0442\u044c\u044f\u043a\u043e\u0432\u0430"
+      },
+      {
+        "id": "3699949",
+        "priory": "",
+        "name": "\u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c"
+      },
+      {
+        "id": "3699958",
+        "priory": "",
+        "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0421\u043e\u043b\u043e\u043c\u0435\u0432\u0438\u0447"
+      },
+      {
+        "id": "3823315",
+        "priory": "",
+        "name": "\u0416\u0435\u043d\u044f \u041a\u0438\u0441\u0435\u043b\u0435\u0432\u0438\u0447"
+      },
+      {
+        "id": "3823318",
+        "priory": "",
+        "name": "\u0412\u0438\u0442\u0430\u043b\u0438\u043a"
+      },
+      {
+        "id": "3830455",
+        "priory": "",
+        "name": "\u0421\u0430\u0448\u0430 \u0423\u043a\u0440\u0430\u0438\u043d\u0430"
+      },
+      {
+        "id": "3830458",
+        "priory": "",
+        "name": "\u0415\u0433\u043e\u0440"
+      },
+      {
+        "id": "3830461",
+        "priory": "",
+        "name": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f \u041b\u0430\u0433\u0443\u043d"
+      },
+      {
+        "id": "3830464",
+        "priory": "",
+        "name": "\u0421\u0430\u0448\u0430 \u041e\u0440\u0448\u0430"
+      },
+      {
+        "id": "3830467",
+        "priory": "",
+        "name": "\u041e\u043b\u044c\u0433\u0430 \u041a\u043e\u0440\u0436\u0438\u043a"
+      },
+      {
+        "id": "3830470",
+        "priory": "",
+        "name": "\u0410\u043d\u043d\u0430 \u041f\u043e\u0434\u043c\u0430\u0440\u043a\u043e\u0432\u0430"
+      },
+      {
+        "id": "5742379",
+        "priory": "",
+        "name": "\u0412\u0430\u043b\u044c\u0434\u0430\u0441"
+      },
+      {
+        "id": "5777791",
+        "priory": "",
+        "name": "AutoCall"
+      }
+    ]
+  },
+  "82": {
+    "TimeResponsible": "",
+    "WorkTime": [],
+    "QuantityCallClient": [],
+    "NumberOfCallAttempts": [],
+    "ArrayUsePipelineShops": [],
+    "ArrayUsePipelineNumbers": [],
+    "ArrayUsePriority": []
+  },
+  "28576573": {
+    "TimeResponsible": "",
+    "WorkTime": [],
+    "QuantityCallClient": [],
+    "NumberOfCallAttempts": {
+      "quantity": "5",
+      "data_q": [
+        {
+          "q": "1",
+          "time": "00:01",
+          "id": "quantity_1"
+        },
+        {
+          "q": "2",
+          "time": "00:30",
+          "id": "quantity_2"
+        },
+        {
+          "q": "3",
+          "time": "01:00",
+          "id": "quantity_3"
+        },
+        {
+          "q": "4",
+          "time": "01:30",
+          "id": "quantity_4"
+        },
+        {
+          "q": "5",
+          "time": "02:00",
+          "id": "quantity_5"
+        }
+      ],
+      "work_start": "09:00",
+      "work_finish": "20:00"
+    },
+    "ArrayUsePipelineShops": [
+      {
+        "id_account": 28576573,
+        "name_pipeline": "\u041e\u0441\u043d\u043e\u0432\u043d\u0430\u044f",
+        "id_pipeline": 1954273,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 28576573,
+        "name_pipeline": "\u041b\u0435\u043d\u0434\u0438\u043d\u0433",
+        "id_pipeline": 3546199,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 28576573,
+        "name_pipeline": "\u0420\u0435\u0430\u043d\u0438\u043c\u0430\u0446\u0438\u044f",
+        "id_pipeline": 1954801,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 28576573,
+        "name_pipeline": "\u0420\u0435\u043a\u043b\u0430\u043c\u0430\u0446\u0438\u044f",
+        "id_pipeline": 3628510,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 28576573,
+        "name_pipeline": "\u0417\u0430\u0431\u043e\u0440\u044b",
+        "id_pipeline": 4182610,
+        "id_set_pep": 0
+      }
+    ],
+    "ArrayUsePipelineNumbers": [
+      {
+        "name_pipeline": "\u041e\u0441\u043d\u043e\u0432\u043d\u0430\u044f\n        ",
+        "id_pipeline": "1954273",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u041b\u0435\u043d\u0434\u0438\u043d\u0433\n        ",
+        "id_pipeline": "3546199",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0420\u0435\u0430\u043d\u0438\u043c\u0430\u0446\u0438\u044f\n        ",
+        "id_pipeline": "1954801",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0420\u0435\u043a\u043b\u0430\u043c\u0430\u0446\u0438\u044f\n        ",
+        "id_pipeline": "3628510",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0417\u0430\u0431\u043e\u0440\u044b\n        ",
+        "id_pipeline": "4182610",
+        "number": ""
+      }
+    ],
+    "ArrayUsePriority": [
+      {
+        "id": "2573290",
+        "priory": "",
+        "name": "UCOM-support"
+      },
+      {
+        "id": "3690400",
+        "priory": "",
+        "name": "\u0418\u043d\u043d\u0430-\u0414\u0438\u0440\u0435\u043a\u0442\u043e\u0440"
+      },
+      {
+        "id": "3690481",
+        "priory": "",
+        "name": "\u041e\u043b\u044c\u0433\u0430 \u0421\u0443\u0445\u043e\u0432\u0430"
+      },
+      {
+        "id": "3721405",
+        "priory": "",
+        "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041f\u0435\u0440\u043a\u043e"
+      },
+      {
+        "id": "3798193",
+        "priory": "",
+        "name": "\u0415\u043b\u0435\u043d\u0430 \u041a\u043b\u0435\u0431\u0430\u043d"
+      },
+      {
+        "id": "3868174",
+        "priory": "",
+        "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u041c\u0430\u0446\u043a\u043e"
+      },
+      {
+        "id": "6037348",
+        "priory": "",
+        "name": "\u0414\u0430\u0440\u044c\u044f \u0410\u0443\u0442\u043a\u043e"
+      },
+      {
+        "id": "6190414",
+        "priory": "",
+        "name": "\u041a\u0443\u0447\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u041f\u0430\u0432\u0435\u043b"
+      },
+      {
+        "id": "6210835",
+        "priory": "",
+        "name": "\u041c\u0430\u0440\u0438\u044f \u0418\u0441\u0442\u0435\u043b\u0435\u0435\u0432\u0430"
+      },
+      {
+        "id": "6309199",
+        "priory": "",
+        "name": "\u0414\u0435\u043d\u0438\u0441 \u0428\u0438\u0448\u043e\u0432"
+      }
+    ]
+  },
+  "14268664": {
+    "TimeResponsible": "",
+    "WorkTime": [],
+    "QuantityCallClient": [],
+    "NumberOfCallAttempts": {
+      "quantity": "6",
+      "data_q": [
+        {
+          "q": "1",
+          "time": "00:05",
+          "id": "quantity_1"
+        },
+        {
+          "q": "2",
+          "time": "00:15",
+          "id": "quantity_2"
+        },
+        {
+          "q": "3",
+          "time": "00:45",
+          "id": "quantity_3"
+        },
+        {
+          "q": "4",
+          "time": "01:00",
+          "id": "quantity_4"
+        },
+        {
+          "q": "5",
+          "time": "04:01",
+          "id": "quantity_5"
+        },
+        {
+          "q": "6",
+          "time": "23:00",
+          "id": "quantity_6"
+        }
+      ],
+      "work_start": "09:10",
+      "work_finish": "20:00"
+    },
+    "ArrayUsePipelineShops": [
+      {
+        "id_account": 14268664,
+        "name_pipeline": "Burs.by",
+        "id_pipeline": 525517,
+        "id_set_pep": 1
+      },
+      {
+        "id_account": 14268664,
+        "name_pipeline": "\u0412\u043e\u0434\u043d\u044b\u0439 \u041c\u0438\u0440",
+        "id_pipeline": 1591360,
+        "id_set_pep": 2
+      },
+      {
+        "id_account": 14268664,
+        "name_pipeline": "1bk \u041f\u0435\u0440\u0432\u0430\u044f \u0411\u0443\u0440\u043e\u0432\u0430\u044f",
+        "id_pipeline": 1591363,
+        "id_set_pep": 3
+      },
+      {
+        "id_account": 14268664,
+        "name_pipeline": "\u0420\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0430",
+        "id_pipeline": 1655799,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 14268664,
+        "name_pipeline": "\u041f\u0440\u043e\u0444\u0411\u0443\u0440",
+        "id_pipeline": 1733302,
+        "id_set_pep": 4
+      },
+      {
+        "id_account": 14268664,
+        "name_pipeline": "Aqua Terra",
+        "id_pipeline": 1956220,
+        "id_set_pep": 6
+      },
+      {
+        "id_account": 14268664,
+        "name_pipeline": "\u0412\u043e\u0434\u043e\u0432\u043e\u0434",
+        "id_pipeline": 1956226,
+        "id_set_pep": 7
+      },
+      {
+        "id_account": 14268664,
+        "name_pipeline": "\u041e\u0431\u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e \u0441\u043a\u0432\u0430\u0436\u0438\u043d",
+        "id_pipeline": 2205658,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 14268664,
+        "name_pipeline": "AquaVita",
+        "id_pipeline": 2205661,
+        "id_set_pep": 0
+      },
+      {
+        "id_account": 14268664,
+        "name_pipeline": "\u0411\u0443\u0440\u041b\u0438\u0434\u0435\u0440",
+        "id_pipeline": 3155848,
+        "id_set_pep": 8
+      },
+      {
+        "id_account": 14268664,
+        "name_pipeline": "7700.by \u041c\u0430\u043b\u043e\u0433\u0430\u0431\u0430\u0440\u0438\u0442\u043a\u0430",
+        "id_pipeline": 3155851,
+        "id_set_pep": 9
+      },
+      {
+        "id_account": 14268664,
+        "name_pipeline": "\u0425\u043e\u043b\u043e\u0434\u043d\u044b\u0435 \u0437\u0432\u043e\u043d\u043a\u0438",
+        "id_pipeline": 3397459,
+        "id_set_pep": 0
+      }
+    ],
+    "ArrayUsePipelineNumbers": [
+      {
+        "name_pipeline": "Burs.by\n        ",
+        "id_pipeline": "525517",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0412\u043e\u0434\u043d\u044b\u0439 \u041c\u0438\u0440\n        ",
+        "id_pipeline": "1591360",
+        "number": ""
+      },
+      {
+        "name_pipeline": "1bk \u041f\u0435\u0440\u0432\u0430\u044f \u0411\u0443\u0440\u043e\u0432\u0430\u044f\n        ",
+        "id_pipeline": "1591363",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0420\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0430\n        ",
+        "id_pipeline": "1655799",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u041f\u0440\u043e\u0444\u0411\u0443\u0440\n        ",
+        "id_pipeline": "1733302",
+        "number": ""
+      },
+      {
+        "name_pipeline": "Aqua Terra\n        ",
+        "id_pipeline": "1956220",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0412\u043e\u0434\u043e\u0432\u043e\u0434\n        ",
+        "id_pipeline": "1956226",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u041e\u0431\u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e \u0441\u043a\u0432\u0430\u0436\u0438\u043d\n        ",
+        "id_pipeline": "2205658",
+        "number": ""
+      },
+      {
+        "name_pipeline": "AquaVita\n        ",
+        "id_pipeline": "2205661",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0411\u0443\u0440\u041b\u0438\u0434\u0435\u0440\n        ",
+        "id_pipeline": "3155848",
+        "number": ""
+      },
+      {
+        "name_pipeline": "7700.by \u041c\u0430\u043b\u043e\u0433\u0430\u0431\u0430\u0440\u0438\u0442\u043a\u0430\n        ",
+        "id_pipeline": "3155851",
+        "number": ""
+      },
+      {
+        "name_pipeline": "\u0425\u043e\u043b\u043e\u0434\u043d\u044b\u0435 \u0437\u0432\u043e\u043d\u043a\u0438\n        ",
+        "id_pipeline": "3397459",
+        "number": ""
+      }
+    ],
+    "ArrayUsePriority": [
+      {
+        "id": "1376107",
+        "priory": "",
+        "name": "\u0413\u0440\u0438\u043d\u043a\u0435\u0432\u0438\u0447 \u0410\u043d\u0434\u0440\u0435\u0439"
+      },
+      {
+        "id": "1376113",
+        "priory": "",
+        "name": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439 \u0410\u043a\u043a\u0430\u0443\u043d\u0442"
+      },
+      {
+        "id": "2167912",
+        "priory": "",
+        "name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439"
+      },
+      {
+        "id": "3110617",
+        "priory": "",
+        "name": "\u041a\u0438\u0440\u0438\u043b\u043b"
+      },
+      {
+        "id": "3319246",
+        "priory": "",
+        "name": "\u041e\u043b\u0435\u0433"
+      },
+      {
+        "id": "3319249",
+        "priory": "",
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440"
+      },
+      {
+        "id": "3438937",
+        "priory": "",
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439"
+      },
+      {
+        "id": "5710150",
+        "priory": "",
+        "name": "\u041f\u0430\u0448\u0430 \u0438 \u0410\u043d\u0434\u0440\u0435\u0439"
+      },
+      {
+        "id": "5710243",
+        "priory": "",
+        "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0410\u043a\u0432\u0430"
+      },
+      {
+        "id": "5916262",
+        "priory": "",
+        "name": "\u0411\u0440\u0438\u0433\u0430\u0434\u0430-5\u0440"
+      },
+      {
+        "id": "5920024",
+        "priory": "",
+        "name": "\u0415\u0433\u043e\u0440"
+      },
+      {
+        "id": "5920027",
+        "priory": "",
+        "name": "\u041e\u0444\u0438\u0441 \u0415\u0432\u0433\u0435\u043d\u0438\u044f"
+      },
+      {
+        "id": "6052129",
+        "priory": "",
+        "name": "\u042e\u0440\u0438\u0439"
+      },
+      {
+        "id": "6052135",
+        "priory": "",
+        "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u0410\u043a\u0432\u0430"
+      },
+      {
+        "id": "6157747",
+        "priory": "",
+        "name": "\u0414\u0438\u043c\u0430"
+      },
+      {
+        "id": "6157762",
+        "priory": "",
+        "name": "\u041e\u0441\u043c\u043e\u0442\u0440 \u0421\u0435\u0440\u0433\u0435\u0439"
+      },
+      {
+        "id": "6157768",
+        "priory": "",
+        "name": "\u041c\u0438\u0445\u0430\u0438\u043b"
+      },
+      {
+        "id": "6157774",
+        "priory": "",
+        "name": "\u0418\u0440\u0438\u043d\u0430"
+      },
+      {
+        "id": "6960645",
+        "priory": "",
+        "name": "\u0421\u0435\u0440\u0433\u0435\u0439 (\u041d\u043e\u0432\u044b\u0439)"
+      },
+      {
+        "id": "6960657",
+        "priory": "",
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 (\u041f\u0440\u043e\u0440\u0430\u0431)"
+      }
+    ]
+  },
+  "83": {
+    "TimeResponsible": "",
+    "WorkTime": [],
+    "QuantityCallClient": [],
+    "NumberOfCallAttempts": [],
+    "ArrayUsePipelineShops": [],
+    "ArrayUsePipelineNumbers": [],
+    "ArrayUsePriority": []
+  }
+}
